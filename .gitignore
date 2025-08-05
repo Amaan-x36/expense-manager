@@ -1,0 +1,21 @@
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.log
+local_settings.py
+.env
+.vscode/
+.idea/
+
+# Keep the database as requested
+# db.sqlite3
+
+# Media files
+media/
+
+# Django stuff
+*.pot
+.DS_Store
